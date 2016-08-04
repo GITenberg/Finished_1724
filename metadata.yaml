@@ -1,0 +1,43 @@
+_repo: Finished_1724
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: "Finished is a 1917 novel by H. Rider Haggard featuring Allan Quatermain.\
+  \ It is the last in a trilogy about the Zulu kingdom, which also includes Marie\
+  \ and Child of Storm, and involved the dwarf Zikali.\nIt is set against the background\
+  \ of the Anglo-Zulu War of 1879, covering events leading up to the war, and ending\
+  \ with the death of Cetewayo. Quatermain is depicted as being one of the few survivors\
+  \ of the Battle of Isandhlwana. Like others in the series, several real-life characters\
+  \ appear, such as Cetewayo and Anthony Durnford.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Adventure
+- Movie Books
+gutenberg_issued: '2004-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1724'
+  wikidata: Q5450349
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zulu War, 1879 -- Fiction'
+- !lcsh 'Zulu (African people) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Quatermain, Allan (Fictitious character) -- Fiction'
+- !lcsh 'War stories'
+- GITenberg
+title: Finished
+url: http://www.gutenberg.org/ebooks/1724
+wikipedia:
+- https://en.wikipedia.org/wiki/Finished_(novel)
